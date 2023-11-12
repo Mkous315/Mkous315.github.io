@@ -45,7 +45,6 @@ img {
 }
 article {
   display: flex;
-  align-items: column;
   flex: 1;
   height: auto;
 }
